@@ -4,7 +4,7 @@
 
 ## AI-Powered Detection of Deepfakes and Misinformation: Delivering Truth and Trust back to the people
 
-Report by Aristide Bandaogo and Alban Nyantudré from GO AI CORP DATA SCIENCE DEPARTEMENT
+Report by Aristide Bandaogo and Alban Nyantudré from GO AI CORP' DATA SCIENCE & IoT DEPARTEMENT
 
 
 ## Context and  background
