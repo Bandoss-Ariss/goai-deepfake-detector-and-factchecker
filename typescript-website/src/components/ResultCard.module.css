@@ -1,0 +1,46 @@
+.resultCard {
+    background-color: #1e1e1e;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .resultCard h2 {
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+  }
+  
+  .resultCard p {
+    margin: 5px 0;
+  }
+  
+  .resultCard .articles {
+    margin-top: 20px;
+  }
+  
+  .resultCard .articles h3 {
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+  }
+  
+  .resultCard .articles ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resultCard .articles li {
+    margin-bottom: 8px;
+  }
+  
+  .resultCard .articles a {
+    color: #6200ea;
+    text-decoration: none;
+  }
+  
+  .resultCard .articles a:hover {
+    text-decoration: underline;
+  }
+  
