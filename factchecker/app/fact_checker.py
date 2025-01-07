@@ -8,11 +8,9 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 # Initialize embeddings and FAISS index
 def initialize_index():
-    #embeddings = OpenAIEmbeddings(api_key = os.getenv("OPENAI_API_KEY"))
-    #dimension = embeddings.embed_query("test").shape[0]
-    #index = faiss.IndexFlatL2(dimension)
-    embeddings = []
-    index = 0
+    embeddings = OpenAIEmbeddings(api_key = os.getenv("OPENAI_API_KEY"))
+    dimension = embeddings.embed_query().shape[0]
+    index = faiss.IndexFlatL2(dimension)
     return embeddings, index
 
 # Verify claim using generated headlines
