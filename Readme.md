@@ -4,7 +4,7 @@
 
 ## AI-Powered Detection of Deepfakes and Misinformation: Delivering Truth and Trust back to the people
 
-Report by Aristide Bandaogo and Alban Nyantudré from GO AI CORP DATA SCIENCE DEPARTEMENT
+#### Report by Aristide Bandaogo and Alban Nyantudré from GO AI CORP' DATA SCIENCE & IoT DEPARTEMENT
 
 
 ## Context and  background
@@ -69,9 +69,9 @@ Some of the challenges we have include:
 #### To test the deepfake detector via WhatsApp please register the following number : + 212 660 862 067 and have fun. You can send any image or media.
 #### To test the factchecker via WhatsApp you need to join the sandbox via this link https://api.whatsapp.com/send/?phone=%2B14155238886&text=join+careful-herself&type=phone_number&app_absent=0.   Send the careful-herself message to join the sandbox and from there you can send any claim or image for factchecking
 ### Same features available on the webapp https://goai-df-detector.vercel.app/
-![Demo 1](demo-images/1.png)
-![Demo 1](demo-images/2.png)
-![Demo 1](demo-images/3.png)
-![Demo 1](demo-images/4.png)
-![Demo 1](demo-images/5.png)
-![Demo 1](demo-images/6.png)
+![Demo 1](demo-image-videos/1.png)
+![Demo 1](demo-image-videos/2.png)
+![Demo 1](demo-image-videos/3.png)
+![Demo 1](demo-image-videos/4.png)
+![Demo 1](demo-image-videos/5.png)
+![Demo 1](demo-image-videos/6.png)
